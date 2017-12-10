@@ -6,7 +6,7 @@ using WebApplication1.Areas.HelpPage.Models;
 
 namespace WebApplication1.Areas.HelpPage.Controllers
 {
-    /// <summary>
+    /// <summary>   sssss	
     /// The controller that will handle requests for the help page.
     /// </summary>
     public class HelpController : Controller
